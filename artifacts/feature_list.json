@@ -1,0 +1,18 @@
+{
+  "features": [
+    "vote_count",
+    "budget",
+    "popularity",
+    "crew_count",
+    "cast_count",
+    "runtime",
+    "keywords_count",
+    "vote_average",
+    "genres_count",
+    "release_year",
+    "production_companies_count",
+    "spoken_languages_count"
+  ],
+  "target": "revenue",
+  "highest_corr_feature": "vote_count"
+}
