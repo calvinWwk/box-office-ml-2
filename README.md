@@ -5,20 +5,6 @@ We explored **Linear Regression (baseline)** and **Random Forest (ensemble)** to
 
 ---
 
-## 📂 Project Structure
-```
-├── artifacts/
-│   ├── dataset_preprocessed_topk.csv   # Slim dataset with top features + revenue
-│   ├── feature_list.json               # Selected features metadata
-│   ├── linreg_pipeline.joblib          # Baseline model
-│   ├── rf_pipeline.joblib              # Random Forest model
-├── Movie_Revenue_Prediction_Colab.ipynb # Main Colab notebook
-├── streamlit_app.py                     # Streamlit app for deployment
-├── README.md                            # Project overview (this file)
-```
-
----
-
 ## 📊 Dataset
 - **Source:** [TMDB 5000 Movie Dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)  
 - **Files used:** `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`  
