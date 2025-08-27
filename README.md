@@ -50,25 +50,15 @@ We deployed a **Streamlit app** for interactive predictions:
 - Users input metadata features (budget, vote counts, etc.).  
 - The trained Random Forest model predicts movie revenue.  
 
-Run locally with:  
-```bash
-streamlit run streamlit_app.py
+```
+https://box-office-ml-2-m6dfq38ba6bq4mqiec2hlu.streamlit.app
 ```
 
 ---
 
 ## 👥 Team Contributions
 - **Adam:** Built baseline Linear Regression model.  
-- **[Your Name]:** Developed Random Forest experiments and tuning.  
+- **Calvin:** Developed Random Forest experiments and tuning.  
 - **Both:** Prepared artifacts and deployed with Streamlit.  
-
----
-
-## 📌 Next Steps
-- Try log-transformed revenue.  
-- Explore gradient boosting and ensemble methods.  
-- Add feature importance visualization for explainability.  
-
----
 
 ✨ *This repo is part of our ITI113 Final Project submission.*  
